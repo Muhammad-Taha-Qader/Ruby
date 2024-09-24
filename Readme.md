@@ -12,4 +12,5 @@ Intends to cover programming fundament ruby projects.
     For the dictionary `["how", "it", "sit"]` and text `"How's it going? Sit down!"`, the result should be:
     
     `{ "how" => 1, "it" => 2, "sit" => 1 }`
-- [Stock Picker]()
+- [Stock Picker](https://github.com/Muhammad-Taha-Qader/Ruby/blob/main/Basic/stock_picker.rb)
+- [Bubble Sort]()
