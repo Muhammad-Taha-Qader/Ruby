@@ -66,7 +66,7 @@ obj.show_vars  # Output: I'm an instance variable
 In this example, local_var will only be available inside set_local_var, but @instance_var will be accessible from any method within the instance.
 
 
-## 2. Some Concepts - Instance Variables
+## 2. Some Concepts - Multiple Constructors
 
 ### Multiple Constructors in Ruby
 
